@@ -1,4 +1,6 @@
-# Tideways PHP Profiler Extension
+#添加PHP7.4.5 支持
+
+# Tideways PHP 7.4  Profiler Extension
 
 [![Build Status](https://travis-ci.org/tideways/php-profiler-extension.svg?branch=master)](https://travis-ci.org/tideways/php-profiler-extension)
 
@@ -10,7 +12,7 @@ Profiler in production.
 
 ## Requirements
 
-- PHP 5.3, 5.4, 5.5, 5.6 or 7.0
+- PHP 5.3, 5.4, 5.5, 5.6 or 7.0 7.1 7.2 7.3 7.4
 - cURL and PCRE Dev Headers (`apt-get install libcurl4-openssl-dev libpcre3-dev`)
 - Tested with Linux i386, amd64 architectures
 
